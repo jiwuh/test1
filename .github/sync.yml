@@ -1,0 +1,6 @@
+jiwuh/test2:
+  - source: README.md
+    dest: README.md
+  - source: roles/
+    dest: roles/
+
